@@ -9,7 +9,7 @@ assignees: jnylen
 
 **NOTE: That we do one issue per channel. If you want to request multiple please create one issue per channel.**
 
-**Channel Name****
+**Channel Name**
 
 Example: Bloomberg TV
 
