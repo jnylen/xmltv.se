@@ -1,4 +1,4 @@
-Issues
+XMLTV.se Issues
 ==============
 
 If you have any channel request then [create a new issue](https://github.com/xmltv-se/issues) if the channel isn't listed yet.
