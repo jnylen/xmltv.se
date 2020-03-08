@@ -1,7 +1,7 @@
 ---
 name: Faulty Data
 about: Is there issues in data for a channel?
-title: "[faulty data]"
+title: ''
 labels: faulty data
 assignees: jnylen
 

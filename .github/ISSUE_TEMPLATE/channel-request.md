@@ -1,7 +1,7 @@
 ---
 name: Channel Request
 about: If you want to request data for a tv channel or a radiostation use this template.
-title: "[request]"
+title: ''
 labels: channel request
 assignees: jnylen
 

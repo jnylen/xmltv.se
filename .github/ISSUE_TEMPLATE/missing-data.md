@@ -1,7 +1,7 @@
 ---
 name: Missing Data
 about: Does a channel have missing data?
-title: "[missing data]"
+title: ''
 labels: critical, faulty data
 assignees: jnylen
 
