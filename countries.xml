@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="manual">
+    <country id="Austria">Austria</country>
+    <country id="Croatia">Croatia</country>
+    <country id="Denmark">Denmark</country>
+    <country id="Estonia">Estonia</country>
+    <country id="Finland">Finland</country>
+    <country id="Germany">Germany</country>
+    <country id="Hungary">Hungary</country>
+    <country id="Latvia">Latvia</country>
+    <country id="Lithuania">Lithuania</country>
+    <country id="Netherlands">Netherlands</country>
+    <country id="Norway">Norway</country>
+    <country id="Poland">Poland</country>
+    <country id="Sweden">Sweden</country>
+    <country id="Switzerland">Switzerland</country>
+    <country id="RADIO">All Radio stations</country>
+    <country id="TV">All TV Channels</country>
+</tv>
